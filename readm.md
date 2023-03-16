@@ -1,4 +1,4 @@
-# Pintei a casa de vermelho
+# Pintei a casa de vermelho e verde
 
 Estou aprendendo a mexer em repositórios remotos.
 
